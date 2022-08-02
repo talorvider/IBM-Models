@@ -1,6 +1,3 @@
-# IBM-models
-implement IBM1 and IBM2 models
-
 IBM model 1:
 =========
 The code runs the IBM 1 model.<br />
@@ -10,6 +7,10 @@ for example: python3 ./IBM1.py ./data/hansards.e ./data/hansards.f<br />
 **Output:**<br />
 A file called aligment_IBM1.txt that contains the alignment,<br />
 And another file called t_IBM1.txt containing the probability table t.<br />
+<br />
+**Pseudo Code:**<br />
+![image](https://user-images.githubusercontent.com/72921611/182416353-53412aab-c88f-4fc9-b62a-9faf4b32f4ac.png)
+
 
 IBM model 2:
 =========
