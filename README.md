@@ -1,5 +1,4 @@
 # Statistical Machine Translation 
-<br />
 ## IBM model 1:
 The code runs the IBM 1 model.<br />
 In order to run the model, write the following line:<br />
