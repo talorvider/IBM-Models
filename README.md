@@ -3,7 +3,7 @@ implement IBM1 and IBM2 models
 
 IBM model 1:
 =========
-The code runs the IBM 1 model.\n
+The code runs the IBM 1 model.
 In order to run the model, write the following line:
 python3 ./IBM1.py english_file french_file
 for example: python3 ./IBM1.py ./data/hansards.e ./data/hansards.f
